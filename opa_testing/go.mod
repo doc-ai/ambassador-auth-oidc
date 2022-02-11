@@ -2,7 +2,7 @@ module awesomeProject1
 
 go 1.17
 
-require github.com/open-policy-agent/opa v0.36.0
+require github.com/open-policy-agent/opa v0.37.0
 
 require (
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
